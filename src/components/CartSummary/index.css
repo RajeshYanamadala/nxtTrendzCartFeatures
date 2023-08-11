@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.heading {
+  font-size: 18px;
+  font-family: 'roboto';
+  color: #616e7c;
+  margin-bottom: 0px;
+}
+.total-amount {
+  font-size: 18px;
+  font-family: 'roboto';
+  color: #01060f;
+}
+.paragraph {
+  font-size: 14px;
+  font-family: 'roboto';
+  color: #616e7c;
+}
+.btn {
+  height: 40px;
+  width: 150px;
+  color: #ffffff;
+  background-color: #0b69ff;
+  border: 0px;
+  border-radius: 5px;
+}
+.cart-summary-card {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;
+}
